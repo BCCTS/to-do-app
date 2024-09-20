@@ -1,5 +1,5 @@
 # To-do React App
-Just a simple to-do app built with React.
+Just a simple to-do app built with React and Remix.
 
 ## Features:
 
